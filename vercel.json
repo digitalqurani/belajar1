@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bimbeldi.mdiq.biz.id/$1",
+      "permanent": true
+    }
+  ]
+}
