@@ -129,7 +129,7 @@ function Kontak(){
       <div className="max-w-5xl mx-auto p-6 flex flex-col md:flex-row items-center justify-between gap-6">
         <div>
           <h3 className="text-xl font-bold text-teal-700">Kontak & Lokasi</h3>
-          <p className="text-gray-600 mt-2">Jl. Pendidikan No. 17, Hikam, Kabupaten Malang</p>
+          <p className="text-gray-600 mt-2">Jl. Pendidikan No. 17, Hikam, Sungai Pasir Kabupaten Karimun</p>
           <p className="text-gray-600">Jam: Senin - Sabtu | Menyesuaikan</p>
           <p className="text-gray-600 mt-2">Email: info@mdiq.biz.id</p>
           <p className="text-gray-600 mt-2">WhatsApp: +62 857-8247-5242</p>
